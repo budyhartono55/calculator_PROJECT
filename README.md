@@ -2,4 +2,4 @@
 
 https://budyhartono55.github.io/calculator_PROJECT
 
-_EXTRA EXERCISE- FOUNDATION Glints Academy_
+_EXTRA EXERCISE-FOUNDATION Glints Academy_
